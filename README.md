@@ -9,12 +9,6 @@
   <img alt="Readme" title="Readme" src="https://user-images.githubusercontent.com/87916631/168206876-0045545a-3f64-4975-829a-b99d5d1dc510.png"/>
 </h1>
 
-
-## 🔘 Fields of ContaModel are:
-+ numero
-+ saldo
-
-
 ## 🔘 Fields of LiveDocument are:
 + id
 + liveName
